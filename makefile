@@ -1,12 +1,8 @@
 CC = gcc
 FLAGS= -Wall -g
 
-#running all rules by order....
 all: loops recursives recursived loopd mains maindloop maindrec
 	
-
-
-
 
 loops: libclassloops.a
 
