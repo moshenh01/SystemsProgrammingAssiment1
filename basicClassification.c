@@ -29,6 +29,7 @@ int factNum(int rep) {
     return n;
 }
 int isPrime(int x){
+    
     int count =0;
     for(int i = 2;i < x;i++) {
         if ((x % i) == 0) {
