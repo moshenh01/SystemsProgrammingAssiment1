@@ -3,9 +3,7 @@
 
 int main() {
     int start,end;
-    do{
-        printf("Enter two integers");
-    }
+    
     while((scanf("%d  %d",&start,&end) != 2));
     if( (start > 0) && (end > 0)){
         printf("The Armstrong numbers are: ");
