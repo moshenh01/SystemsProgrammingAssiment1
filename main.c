@@ -1,4 +1,4 @@
-
+// this is main
 #include "NumClass.h"
 
 int main() {
